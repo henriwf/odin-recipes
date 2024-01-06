@@ -1,0 +1,17 @@
+* {
+    font-family: Helvetica, Arial;
+    background-color: rgb(238, 230, 213);
+}
+
+
+
+.title {
+    color: rgb(74, 63, 138);
+}
+
+img {
+    border: 5px solid #ffffff;
+    border-radius: 20px;
+    
+    
+}
